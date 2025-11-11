@@ -41,7 +41,9 @@ Tabel ini berfungsi untuk menyimpan data sewa, memiliki 6 atribut:
 
 # Dokumentasi
 
-![dokumentasitp5](https://github.com/user-attachments/assets/27de6679-e0bb-403a-ba59-6fec3f0a8c75)
+https://github.com/user-attachments/assets/26d5ca05-25e0-4194-b667-ce48672f6a12
+
+
 
 
 
