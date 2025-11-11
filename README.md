@@ -1,6 +1,6 @@
 # TP7DPBO2425C1
 ## JANJI
-Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP5 pada mata kuliah DPBO untuk keberkahannya saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
+Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP7 pada mata kuliah DPBO untuk keberkahannya saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
 
 
 ---
