@@ -9,19 +9,19 @@ Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP5 pada mata kulia
 Tema website yang saya buat adalah Sistem Manajajemen Penyewaan Alat Musik. Website ini berfungsi untuk membantu proses pencatatan, pengelolaan, dan pemaantauan data penyewaan alat musik. Pengguna dapat menambah, melihat, mengedit/mengupdate, dan menghapus data yang ada pada Sistem Manajamene Penyewaan Alat Musik.
 
 ## Penjelasan Database
-# Tabel Alat Musik
+#### Tabel Alat Musik
 Tabel ini berfungsi untuk menyimpan alat alat musik untuk disewakan, memiliki 4 atribut yaitu:
 - Id_alat
 - Merk (merk alat musik)
 - Jenis (keyboard, gitar, drum, dll)
 - stok (jumlah stok yang tersisa)
-# Tabel Peminjam
+#### Tabel Peminjam
 Tabel ini berfungsi untuk menyimpan data penyewa alat musik, memiliki 4 atribut yaitu:
 - id_peminjam
 - nama
 - no_hp
 - alamat
-# Tabel Sewa
+#### Tabel Sewa
 Tabel ini berfungsi untuk menyimpan data sewa, memiliki 6 atribut:
 - Id_sewa
 - id_peminjam (foreign key dari tabel peminjam, untuk mengambil nama)
